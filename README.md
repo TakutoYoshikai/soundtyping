@@ -1,6 +1,10 @@
 # soundtyping
 This is a program to play sound when you are typying.
 
+### Requirements
+* Ubuntu 20.04
+* Python 3
+
 ### Usage
 1. Download your sound file as ./sound.mp3
 
