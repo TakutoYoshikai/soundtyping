@@ -1,5 +1,5 @@
 # soundtyping
-This is a program to play sound when you are typying.
+This is a program to play sound when you are typing.
 
 ### Requirements
 * Ubuntu 20.04
